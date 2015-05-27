@@ -1,0 +1,9 @@
+Package: com.mohammadag.unicodesuppressor
+Name: Unicode suppressor
+Depends: mobilesubstrate
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Power, effective, not so much.
+Maintainer: Mohammad Abu-Garbeyyeh
+Author: Mohammad Abu-Garbeyyeh
+Section: Tweaks
